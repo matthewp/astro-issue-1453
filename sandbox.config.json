@@ -1,0 +1,15 @@
+{
+  "template": "node",
+  "node": "14",
+  "packages": [
+    "packages/core"
+  ],
+  "sandboxes": [
+    "config.codesandbox"
+  ],
+  "container": {
+    "port": 3000
+  },
+  "infiniteLoopProtection": true,
+  "hardReloadOnChange": false
+}
